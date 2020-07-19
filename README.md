@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Vercel に deploying をためしちゅう...
+
+https://nextjs.org/learn/basics/deploying-nextjs-app/
